@@ -4,8 +4,6 @@ Proyecto de análisis de datos enfocado a la generación de inventario de CLUBES
 ## SAMS inventario
 ### Módulo 1
 
-! [Encabezado] ()
-
 Checkpoints
 
 Sam’s Club, la cadena estadounidense de clubes de almacenes minoristas con acceso solo por membresía requiere de un gestor de inventarios para el conocimiento de proveedores, socios, artículos, servicios, direcciones de los clubes etc. de México que permita conocer: 1.Obtener el nombre de los estados.
